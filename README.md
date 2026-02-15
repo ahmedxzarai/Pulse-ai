@@ -40,12 +40,14 @@ Streamlit UI
 
 🎯 Features
 
-• Real-time sentiment prediction
-• GPU-aware inference
-• Confidence scoring
-• Clean modular architecture
-• Cached model loading
-• Error-handled inference pipeline
+
+• Real-time sentiment prediction (single + batch)  
+• Confidence scoring for predictions  
+• GPU-aware, production-ready pipeline  
+• Interactive Streamlit dashboard  
+• CSV upload/download for batch analysis  
+• Visual brand health dashboard (Pie chart + summary table)
+
 
 📊 Model Details
 
