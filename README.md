@@ -59,27 +59,38 @@ Streamlit UI
 
 Pulse-AI/
 │
-├── app.py             # Streamlit UI
-├── inference.py       # ML inference engine
+├── .gitignore
+├── app.py                 # Streamlit UI
+├── inference.py           # ML inference engine
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
+
 
 🖥 Run Locally
 
 Clone the repository:
+```bash
 git clone https://github.com/ahmedxzarai/pulse-ai.git
 cd pulse-ai
+```
 
 Create a virtual environment (recommended):
+```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate  # Mac/Linux
+```
 
 Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 Run the application:
+```bash
 streamlit run app.py
+```
 
 🌍 Business Applications
 
