@@ -66,7 +66,19 @@ Pulse-AI/
 
 🖥 Run Locally
 
+Clone the repository:
+git clone https://github.com/ahmedxzarai/pulse-ai.git
+cd pulse-ai
+
+Create a virtual environment (recommended):
+python -m venv venv
+venv\Scripts\activate   # Windows
+source venv/bin/activate  # Mac/Linux
+
+Install dependencies:
 pip install -r requirements.txt
+
+Run the application:
 streamlit run app.py
 
 🌍 Business Applications
@@ -101,6 +113,12 @@ streamlit run app.py
 • Production-aware design
 • Real-world business alignment
 • End-to-end ML workflow implementation
+
+
+
+## 🌍 Live Demo
+[Click here to try Pulse AI](https://pulse-ai-jczcdcxtesbrnylreulvdk.streamlit.app/)
+
 
 
 
