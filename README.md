@@ -71,7 +71,7 @@ Pulse-AI/
 
 Clone the repository:
 ```bash
-git clone https://github.com/ahmedxzarai/pulse-ai.git
+git clone https://github.com/ahmedxzarai/Pulse-ai.git
 cd pulse-ai
 ```
 
