@@ -86,9 +86,14 @@ streamlit run app.py
 - [ ] Docker containerization for cloud scaling
 - [ ] CI/CD pipeline for automated testing
 
+
 ### 👤 Author
-Ahmed Zarai
-AI Systems & Biometric Intelligence Developer
+**AHMED ZARAI**<br>
+*AI Systems & Biometric Intelligence Developer*
+
+
+
+
 
 <div align="center">
 <p>Copyright © 2026 AHMED ZARAI. Distributed under the MIT License.</p>
