@@ -52,6 +52,7 @@ Pulse-AI/
 ### 🖥 Getting Started
 <details>
 <summary><b>View Installation Steps</b></summary>
+
 1. Clone the repository
 
 ```bash
