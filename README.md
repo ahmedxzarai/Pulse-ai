@@ -53,6 +53,7 @@ Pulse-AI/
 <details>
 <summary><b>View Installation Steps</b></summary>
 1. Clone the repository
+
 ```bash
 git clone [https://github.com/ahmedxzarai/Pulse-ai.git](https://github.com/ahmedxzarai/Pulse-ai.git)
 cd pulse-ai
