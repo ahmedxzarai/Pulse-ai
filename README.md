@@ -56,7 +56,7 @@ Pulse-AI/
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/ahmedxzarai/Pulse-ai.git](https://github.com/ahmedxzarai/Pulse-ai.git)
+git clone https://github.com/ahmedxzarai/Pulse-ai.git
 cd pulse-ai
 ```
 2. Setup Environment
