@@ -17,6 +17,8 @@
 ### 🚀 Overview
 Pulse AI is a production-oriented NLP application leveraging *Transformer architecture* for real-time sentiment classification of global business reviews. This project demonstrates end-to-end ML system integration—from model inference to user-facing deployment.
 
+---
+
 ### 🧠 System Architecture
 ```text
 User Input ──▶ SentimentEngine (Inference) ──▶ DistilBERT Transformer ──▶ Softmax ──▶ Streamlit UI
@@ -29,6 +31,8 @@ User Input ──▶ SentimentEngine (Inference) ──▶ DistilBERT Transforme
 - Brand Health Dashboard: Interactive Pie charts and summary tables.
 - Batch Processing: Support for CSV upload/download for large-scale analysis.
 
+---
+
 ### 🛠 Tech Stack
 | Layer            | Technology                |
 | ---------------- | ------------------------- |
@@ -37,6 +41,8 @@ User Input ──▶ SentimentEngine (Inference) ──▶ DistilBERT Transforme
 | Backend          | Python + PyTorch          |
 | Frontend         | Streamlit                 |
 | Hardware Support | CPU / GPU (auto-detected) |
+
+---
 
 ### 📦 Project Structure
 ```text
@@ -48,6 +54,7 @@ Pulse-AI/
 ├── README.md              # Documentation
 └── LICENSE                # MIT License
 ```
+---
 
 ### 🖥 Getting Started
 <details>
@@ -77,10 +84,14 @@ streamlit run app.py
 ```
 </details>
 
+---
+
 ### 🔥 Engineering Highlights
 - Modular Design: Clean separation between UI (Streamlit) and ML Logic (Inference).
 - Caching Strategy: Production-style caching to prevent reloading the model on every interaction.
 - Scalability: Logic is built to be "FastAPI-ready" for microservice conversion.
+
+---
 
 ### 🚀 Roadmap & Future Improvements
 - [ ] Multilingual model support (mBERT)
@@ -88,14 +99,11 @@ streamlit run app.py
 - [ ] Docker containerization for cloud scaling
 - [ ] CI/CD pipeline for automated testing
 
+---
 
 ### 👤 Author
 **AHMED ZARAI**<br>
-*AI Systems & Biometric Intelligence Developer*
-
-
-
-
+*AI Systems & Biometric Intelligence Developer*<br><br><br>
 
 <div align="center">
 <p>Copyright © 2026 AHMED ZARAI. Distributed under the MIT License.</p>
